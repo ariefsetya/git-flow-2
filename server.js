@@ -8,3 +8,6 @@ app.get('/hello',(req,res)=>{
 app.get('/hello-2',(req,res)=>{
 	console.log('hello-2');
 })
+app.get('/hello-3',(req,res)=>{
+	console.log('hello-3');
+})
