@@ -11,3 +11,6 @@ app.get('/hello-2',(req,res)=>{
 app.get('/hello-3',(req,res)=>{
 	console.log('hello-3');
 })
+app.get('/hello-4',(req,res)=>{
+	console.log('hello-4');
+})
